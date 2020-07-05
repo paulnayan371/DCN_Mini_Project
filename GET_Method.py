@@ -1,3 +1,4 @@
+#GET Method to implement client side HTTP Protocol.
 import http.client
 
 #Example of a valid request
